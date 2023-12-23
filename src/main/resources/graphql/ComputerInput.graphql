@@ -1,0 +1,4 @@
+type ComputerInput{
+    Proce:String
+    Price:String
+}

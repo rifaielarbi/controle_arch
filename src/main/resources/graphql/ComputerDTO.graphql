@@ -1,0 +1,4 @@
+type ComputerDTO{
+    Proce:String
+    Price:String
+}

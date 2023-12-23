@@ -1,0 +1,7 @@
+type Query{
+    getComputerByProce(proce:String):[ComputerDTO]
+    getComputerbyProceAndPrice(proce:String,price:String):[ComputerDTO]
+
+}
+
+
